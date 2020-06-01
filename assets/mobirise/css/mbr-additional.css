@@ -1447,8 +1447,8 @@ section.lazy-placeholder:after {
 }
 .cid-rZRr3IEs7b {
   background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 .cid-rZRr3IEs7b .image-block {
   margin: auto;
@@ -1508,6 +1508,7 @@ section.lazy-placeholder:after {
 }
 .cid-rZYTLmbcPD .card-title {
   color: #ffffff;
+  text-align: center;
 }
 .cid-rZo3MhwM38 {
   padding-top: 45px;
